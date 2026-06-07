@@ -1,0 +1,2 @@
+# python-practicals-251101105-
+PYTHON WEEKLY CODINGS
